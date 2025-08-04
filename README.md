@@ -103,8 +103,8 @@ Password: 23$Bala69
 
 ## 📸 Screenshots
 
-> (Add screenshots of your login screen, dashboard, book details page, and weather ticker here)
-> 
+
+https://drive.google.com/drive/folders/1J6vdi0Bd4SWd2xh-0dzNtdjXnTVecQe2?usp=sharing
 
 ---
 
