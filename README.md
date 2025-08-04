@@ -118,7 +118,7 @@ Password: password
 
 ## 🧑‍💻 Author
 
-Built with ❤️ by [Your Name](https://github.com/yourusername)
+Built with ❤️ by [Sakthi Bala](https://github.com/Sakthi-Maan)
 
 ---
 
