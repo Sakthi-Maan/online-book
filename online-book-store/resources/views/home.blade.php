@@ -59,6 +59,7 @@
  @if(Auth::check())
 <div class="d-flex justify-content-end mb-3">
     <span class="me-3 fw-semibold text-dark">👋 Welcome, {{ Auth::user()->name }}</span>
+     <a href="{{ route('register.form') }}" class="btn btn-outline-primary btn-sm me-2">Create User</a>
     <a href="{{ route('store.front') }}" class="btn btn-outline-primary btn-sm me-2">🏬 Go to Store</a>
     <form action="{{ route('logout') }}" method="POST">
         @csrf
