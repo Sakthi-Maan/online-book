@@ -85,8 +85,8 @@ routes/
 ## 🔐 Admin Credentials
 
 ```plaintext
-Email: admin@example.com
-Password: password
+Email: sakthibala64469@gmail.com
+Password: 23$Bala69
 ```
 
 > You can modify default credentials in `DatabaseSeeder.php`.
