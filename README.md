@@ -114,6 +114,7 @@ https://drive.google.com/drive/folders/1J6vdi0Bd4SWd2xh-0dzNtdjXnTVecQe2?usp=sha
 - Follows Laravel MVC architecture
 - Responsive and accessible UI
 - No cloning or pre-built templates used
+- I have included sql file of the database , use it for faster setup
 
 ---
 
